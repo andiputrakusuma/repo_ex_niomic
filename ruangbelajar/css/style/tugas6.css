@@ -1,0 +1,34 @@
+img {
+    width: 23px;
+    /* height: 50px; */
+}
+
+.satu {
+    width: 300px;
+    height: 100px;
+    overflow: scroll;
+    background-color: aqua;
+    padding: 5px;
+    padding-left: 15px;
+    border: 7px dotted red;
+}
+
+.dua {
+    width: 280px;
+    height: 100px;
+    overflow: scroll;
+    background-color: aqua;
+    padding: 5px;
+    padding-left: 12px;
+    border: 5px solid rgb(4, 117, 0);
+}
+
+.tiga {
+    width: 300px;
+    height: 100px;
+    overflow: scroll;
+    background-color: aqua;
+    padding: 5px;
+    padding-left: 17px;
+    border: 17px dashed rgb(0, 16, 238);
+}

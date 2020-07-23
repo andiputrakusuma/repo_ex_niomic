@@ -1,0 +1,40 @@
+.div_menu {
+    background-color: black;
+}
+
+/* header {
+    background-color: black;
+} */
+
+.menu {
+    color: white;
+    font-size: 20px;
+    /* background-color: black; */
+}
+
+.slider-div {
+    margin-top: 10px;
+    margin-left: 145px;
+    margin-right: 100px;
+    /* position: relative; */
+    /* background-color: blue; */
+}
+
+.slider {
+    width: 650px;
+
+}
+
+div {
+    text-align: justify;
+}
+
+footer {
+    background-color: black;
+}
+
+.footer,
+.footer-alamat {
+    text-align: center;
+    color: white;
+}

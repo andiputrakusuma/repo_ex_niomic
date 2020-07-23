@@ -1,0 +1,48 @@
+body {
+    position: fixed;
+}
+
+.Menu {
+    background-color: black;
+    /* color: white; */
+    height: 27px;
+}
+
+a {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+
+.img {
+    width: 700px;
+}
+
+#gambar {
+    position: relative;
+    margin-left: 150px;
+    /* width: 0px; */
+
+}
+
+#content {
+    /* font-family: ; */
+    text-align: justify;
+}
+
+
+#gambar1 {
+    right: 10px;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+/* .footer,
+.footer-alamat {
+    color: rgb(255, 255, 255);
+} */

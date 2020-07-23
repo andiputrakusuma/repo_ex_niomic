@@ -1,0 +1,34 @@
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+
+}
+
+th {
+    background-color: burlywood;
+    height: 50px;
+    text-align: center;
+    /* vertical-align: middle; */
+}
+
+/* .hov:hover {
+    background-color: cornflowerblue;
+} */
+
+td:hover {
+    background-color: chartreuse;
+    border-color: crimson;
+    /* height: 50px; */
+
+}
+
+td,
+th {
+    border-bottom: 5px solid orange;
+}

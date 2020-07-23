@@ -1,0 +1,23 @@
+/*menggunakan class*/
+/*#idwarna {
+	color: red;
+}*/
+
+.warna {
+	color: #C9E407;
+	background-color: #EB984E;
+}
+
+h2 {
+	color: blue;
+}
+
+body {
+
+	background-image: url(https://pbs.twimg.com/profile_images/1126705963958882304/9QSG2D8O_400x400.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+
+	/*background: orange url(https://pbs.twimg.com/profile_images/1126705963958882304/9QSG2D8O_400x400.png) no-repeat center top;*/
+
+}

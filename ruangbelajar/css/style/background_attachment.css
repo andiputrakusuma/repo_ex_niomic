@@ -1,0 +1,9 @@
+div {
+    width: 690px;
+    height: 1500px;
+    border: 2px solid green;
+    background-image: url(../img/niomic.png);
+    background-repeat: no-repeat;
+    background-position: 100px 100px;
+    background-attachment: fixed;
+}

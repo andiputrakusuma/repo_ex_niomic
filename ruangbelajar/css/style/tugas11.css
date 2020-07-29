@@ -1,0 +1,42 @@
+.content {
+    background-color: #E8E8DE;
+    margin-top: -25px;
+}
+
+header {
+    background-color: #37372E;
+    height: 50px;
+}
+
+p {
+    column-count: 4;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: justify;
+    column-rule: 5px double black;
+}
+
+a {
+    color: white;
+    margin-left: 20px;
+    text-decoration: none;
+    /* position: relative; */
+    /* padding-top: 50px; */
+    font-size: 20px;
+}
+
+table {
+    padding-top: 10px;
+}
+
+.footer {
+    background-color: black;
+    text-align: center;
+    color: white;
+    height: 50px;
+}
+
+h1 {
+    padding-left: 20px;
+    padding-top: 25px;
+}

@@ -1,0 +1,7 @@
+.content {
+    height: 300px;
+    column-width: 300px;
+    /* column-count: 4; */
+    column-fill: auto;
+    column-gap: 300px;
+}

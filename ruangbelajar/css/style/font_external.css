@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "font digital";
+    src: url(../font/digital-7.ttf);
+}
+
+.satu {
+    font-family: "font digital";
+    font-size: 30px;
+}

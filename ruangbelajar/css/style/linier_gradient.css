@@ -1,0 +1,66 @@
+body {
+    background-image: linear-gradient(white, blue);
+}
+
+/* div {
+    width: 500px;
+    height: 250px;
+    margin: 0 auto;
+    border: 2px solid black;
+    float: left;
+    margin: 50px;
+    font-size: 30px;
+    text-align: center; */
+/* background-image: linear-gradient(red 75%, violet, white); */
+}
+
+/* membuat linier_gradient biasa */
+/* .satu {
+    background-image: linear-gradient(red, violet, white);
+}
+
+.dua {
+    background-image: linear-gradient(red, violet, black);
+}
+
+.tiga {
+    background-image: linear-gradient(red, violet, blue, magenta);
+}
+
+.empat {
+    background-image: linear-gradient(red, violet, green, aqua, blue, indigo, yellow);
+} */
+
+/* membuat liner gradient dengan to top */
+/* .satu {
+    background-image: linear-gradient(to top, red, violet);
+}
+
+.dua {
+    background-image: linear-gradient(to bottom right, red, violet, black);
+}
+
+.tiga {
+    background-image: linear-gradient(to top right, red, violet, blue, magenta);
+}
+
+.empat {
+    background-image: linear-gradient(to top, red, violet, green, aqua, blue, indigo, yellow);
+} */
+
+/* membuat liner gradient dengan nilai sudut */
+/* .satu {
+    background-image: linear-gradient(0deg, red, violet);
+}
+
+.dua {
+    background-image: linear-gradient(135deg, red, violet, black);
+}
+
+.tiga {
+    background-image: linear-gradient(-45deg, red, violet, blue, magenta);
+}
+
+.empat {
+    background-image: linear-gradient(13deg, red, violet, green, aqua, blue, indigo, yellow);
+}  */

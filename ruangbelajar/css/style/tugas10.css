@@ -1,0 +1,23 @@
+body {
+    /* background-color: red; */
+    background-image: linear-gradient(to top right, red, white);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.satu {
+    width: 800px;
+    height: 600px;
+    /* border: 2px solid black; */
+    margin: 0 auto;
+    background-image: radial-gradient(ellipse at bottom, white, blue);
+}
+
+.dua {
+    width: 800px;
+    height: 150px;
+    /* border: 2px solid black; */
+    margin: 0 auto;
+    background-image: linear-gradient(to right, white, blue, white);
+}

@@ -1,0 +1,64 @@
+div {
+    width: 500px;
+    height: 250px;
+    margin: 0 auto;
+    border: 2px solid black;
+    float: left;
+    margin: 50px;
+    font-size: 30px;
+    text-align: center;
+    /* background-image: linear-gradient(red 75%, violet, white); */
+}
+
+/* membuat linier_gradient biasa */
+.satu {
+    background-image: radial-gradient(farthest-side circle, black, yellow, black);
+}
+
+.dua {
+    background-image: radial-gradient(closest-side circle at 10% 10%, black, yellow, black);
+    color: chartreuse;
+}
+
+.tiga {
+    background-image: radial-gradient(farthest-corner circle at 10% 60%, black, yellow, black);
+}
+
+.empat {
+    background-image: radial-gradient(farthest-side circle at 10% 60%, black, yellow, black);
+}
+
+
+/* membuat liner gradient dengan nilai sudut */
+/* .satu {
+    background-image: radial-gradient(circle 50px, black, yellow);
+}
+
+.dua {
+    background-image: radial-gradient(circle 100px, black, yellow);
+}
+
+.tiga {
+    background-image: radial-gradient(circle 1em, black, yellow);
+}
+
+.empat {
+    background-image: radial-gradient(circle 6em, black, yellow);
+} */
+
+/* membuat liner gradient dengan nilai sudut */
+/* .satu {
+    background-image: radial-gradient(circle at 100% 50%, green, yellow);
+}
+
+.dua {
+    background-image: radial-gradient(ellipse at 100% 50%, green, yellow);
+}
+
+.tiga {
+    background-image: radial-gradient(circle at 100% 100%, green, yellow);
+}
+
+.empat {
+    background-image: radial-gradient(circle at top right, green, yellow);
+} */

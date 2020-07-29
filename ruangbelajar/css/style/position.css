@@ -1,4 +1,12 @@
 .position {
+    /* jenis posisi 
+    
+    1. static : posisi tetap mengikuti text normal flow
+    2. relative : lebih fleksibel bisa diatur posisinya dalam sebuah <div>
+    3. absolute : fleksibel tetapi keluar dari <div> jika pengaturan posisinya tidak sesuai dengan ukuran <div>
+    4. Fixed : tetap pada posisinya walaupun browser di kecil atau dibesarkan
+    
+    */
     position: relative;
     /* top: 100px; */
     /* margin-left: 50px; */

@@ -1,0 +1,30 @@
+.container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.satu {
+    border: solid;
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    /* float: left; */
+    margin-top: 50px;
+    border-image-source: repeating-linear-gradient(to bottom right, blue, white, blue 10px);
+    border-image-repeat: round;
+    border-image-width: 20px;
+    border-image-slice: 10%;
+}
+
+/* .satu {
+    border-image-repeat: stretch;
+    border-image-outset: 33px;
+}
+
+.dua {
+    border-image-repeat: repeat;
+}
+
+.tiga {
+    border-image-repeat: round;
+} */

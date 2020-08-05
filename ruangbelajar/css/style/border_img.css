@@ -1,0 +1,32 @@
+.container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.satu,
+.dua,
+.tiga {
+    border: solid;
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    float: left;
+    margin-left: 50px;
+
+    border-image-source: url(../img/border1.png);
+    border-image-width: 30%;
+    border-image-slice: 33%;
+}
+
+.satu {
+    border-image-repeat: stretch;
+    border-image-outset: 33px;
+}
+
+.dua {
+    border-image-repeat: repeat;
+}
+
+.tiga {
+    border-image-repeat: round;
+}

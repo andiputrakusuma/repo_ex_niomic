@@ -1,0 +1,39 @@
+.container {
+    width: 1000px;
+    margin: 50px auto;
+}
+
+.satu,
+.dua,
+.tiga,
+.empat {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    float: left;
+    margin-left: 50px;
+}
+
+.satu {
+    box-shadow: 10px 10px 10px 10px red;
+}
+
+.dua {
+    box-shadow: 10px 10px 10px 10px #c0c0c0;
+}
+
+.tiga {
+    box-shadow: 10px 10px 10px 10px rgba(255, 88, 75, 0.8);
+}
+
+.empat {
+    box-shadow: 10px 10px 10px 10px hsl(100, 100%, 50%);
+}
+
+/* keterangan :
+value pertama 10px = untuk sumbu X
+value ke dua 10px = untuk sumbu Y
+value ke tiga 10px = untuk tingkat BLUR pada kotak
+value empat 10px = untuk split pada kotak
+value ke lima = Pemilihan warna
+*/

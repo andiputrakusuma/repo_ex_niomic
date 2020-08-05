@@ -1,0 +1,75 @@
+.card {
+    background-image: linear-gradient(to bottom right, #2EF7FE, #B14BEB, #C7D703);
+    /* background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; */
+    /* margin-top: -15px; */
+    /* margin-bottom: 13px; */
+    position: relative;
+    /* top: 80px; */
+
+
+}
+
+header {
+    background-color: black;
+    /* margin-left: ; */
+    height: 40px;
+    /* z-index: 1;
+    position: fixed; */
+    /* margin-top: -10px; */
+    /* margin-left: -9px; */
+    /* margin-right: -10px; */
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    margin-left: 5px;
+}
+
+table {
+    padding-top: 7px;
+
+    /* height: 20px; */
+}
+
+.slider-img {
+    position: relative;
+    display: block;
+    top: 15px;
+    margin: 0 auto;
+    width: 80%;
+}
+
+.image {
+    position: relative;
+    width: 170px;
+    height: 220px;
+    float: left;
+    left: 15px;
+    top: 35px;
+}
+
+.p-text {
+    padding-top: 15px;
+    padding-left: 30px;
+    column-count: 4;
+    column-rule: 2px solid black;
+    text-align: justify;
+    padding-right: 10px;
+    padding-bottom: 13px;
+}
+
+.footer {
+    background-color: black;
+    text-align: center;
+    color: white;
+    margin-top: -13px;
+    height: 50px;
+}
+
+h2 {
+    padding-top: 3px;
+}

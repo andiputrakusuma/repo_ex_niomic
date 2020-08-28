@@ -1,0 +1,50 @@
+/* .row {
+    background-color: cornflowerblue;
+    height: 70px;
+    padding: 10px;
+} */
+
+.row {
+    background-color: #05C0D6;
+    border: 2px solid;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+div {
+    border: 2px solid;
+    padding: 15px;
+}
+
+.col-md-10 {
+    background-color: #08A920;
+
+}
+
+.col-md-7 {
+
+    background-color: blue;
+
+
+}
+
+.col-md-6 {
+
+    background-color: red;
+
+
+}
+
+.col-md-3 {
+
+    background-color: yellow;
+
+
+}
+
+.col-md-1 {
+
+    background-color: violet;
+
+
+}

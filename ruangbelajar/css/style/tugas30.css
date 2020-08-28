@@ -1,0 +1,32 @@
+.kotak {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+/* .nav-wrapper {
+    padding: 15px;
+} */
+
+/* nav {
+    position: absolute;
+} */
+
+.content {
+    background-color: #546E7A;
+    /* padding-bottom: 9px; */
+    padding-left: 15px;
+    margin-top: -37px;
+
+}
+
+.button {
+    /* margin-bottom: 50px; */
+    border-top: 1px solid white;
+    margin-right: 13px;
+    padding: 20px;
+    background-color: #546E7A;
+}
+
+.ss {
+    float: right;
+}

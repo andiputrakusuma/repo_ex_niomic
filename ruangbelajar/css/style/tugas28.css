@@ -1,0 +1,28 @@
+body {
+    background-color: #333334;
+}
+
+.container {
+    /* background-color: blue; */
+    margin-top: 70px;
+}
+
+.rounded-circle {
+    width: 300px;
+    height: 150px;
+    display: block;
+    margin: 0 auto;
+}
+
+.form {
+    color: white;
+    position: relative;
+    display: block;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 35px;
+}
+
+span {
+    color: blue;
+}

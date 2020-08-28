@@ -1,0 +1,62 @@
+/* script menghilangkan Horizontal Scroll */
+html,
+body {
+    max-width: 100%;
+    overflow-x: hidden;
+    background: linear-gradient(to bottom right, #E8A707 32%, #07CDE8);
+}
+
+/* .jumbotron {
+    background-image: url(../../img/lampung.jpg);
+    background-repeat: no-repeat;
+} */
+
+.paragraph {
+    width: 150%;
+}
+
+.profile {
+    margin-top: 50px;
+}
+
+
+@font-face {
+    font-family: 'great_vibesregular';
+    src: url('greatvibes-regular-webfont.woff') format ('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* .col-sm-5 {
+    font-family: 'great_vibesregular';
+}
+ */
+
+.content {
+    background-color: thistle;
+}
+
+
+.row img {
+    /* padding: 10px; */
+    margin-top: 13px;
+
+
+}
+
+section {
+    min-height: 420px;
+}
+
+hr {
+    width: 500px;
+    border: 7px solid black;
+}
+
+
+
+.portofolio,
+.profile {
+    background-color: #F8F9FA;
+}
